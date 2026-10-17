@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "waterlogged=false": {
+      "model": "realistic_bullets:block/damaged_block"
+    },
+    "waterlogged=true": {
+      "model": "realistic_bullets:block/damaged_block"
+    }
+  }
+}
